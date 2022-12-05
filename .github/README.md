@@ -1,4 +1,4 @@
-<h1 align="center">NvChad</h1>
+<h1 align="center">NvChad Goth GF Edition</h1>
 
 <div align="center">
 	<a href="https://nvchad.github.io/">Home</a>
@@ -28,6 +28,12 @@
 [![Telegram](https://img.shields.io/badge/Telegram-blue.svg?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/nvchad_tg)
 
   </div>
+
+## Goth GF Edition Install
+
+```sh
+git clone https://github.com/n0ughtchill/NvChat-GothGFEdition ~/.config/nvim --depth 1 && nvim
+```
 
 ## Showcase
 
