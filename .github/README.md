@@ -32,7 +32,7 @@
 ## Goth GF Edition Install
 
 ```sh
-git clone https://github.com/n0ughtchill/NvChat-GothGFEdition ~/.config/nvim --depth 1 && nvim
+git clone https://github.com/n0ughtchill/NvChad-GothGFEdition ~/.config/nvim --depth 1 && nvim
 ```
 
 ## Showcase
